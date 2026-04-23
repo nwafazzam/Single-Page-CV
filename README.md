@@ -1,1 +1,1 @@
-https://nwafazzam.github.io/Single-Page-CV/
+Project URL: https://nwafazzam.github.io/Single-Page-CV/
