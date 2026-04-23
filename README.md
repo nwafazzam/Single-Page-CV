@@ -1,5 +1,6 @@
 # Single-Page HTML CV
 
-This is a project from roadmap.sh.
+This is a project for the roadmap.sh Frontend Developer path.
 
-Project URL: https://nwafazzam.github.io/Single-Page-CV/
+Live Preview: https://nwafazzam.github.io/Single-Page-CV/
+GitHub Repository: https://github.com/nwafazzam/Single-Page-CV
