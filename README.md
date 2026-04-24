@@ -4,4 +4,4 @@
   
 </div>
 
-the <a href="https://roadmap.sh/projects/single-page-cv"> project URL! </a
+the <a href="https://roadmap.sh/projects/single-page-cv"> project URL! </a>
