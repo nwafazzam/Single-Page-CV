@@ -1,2 +1,2 @@
 ## Live Demo
-Check out my 
+Check out my : https://nwafazzam.github.io/Single-Page-CV/
